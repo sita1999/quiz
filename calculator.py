@@ -16,7 +16,7 @@ while True:
         c=a+b
         print("sum is:",c)
         return
-    def subtract():
+    def subtract():                 #function for subtraction
         a = int(input("enter 1st no to perform subtraction:"))
         b = int(input("enter 2nd no to perform subtraction:"))
         c = a - b
